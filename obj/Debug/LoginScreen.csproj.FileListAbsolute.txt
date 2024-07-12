@@ -1,0 +1,12 @@
+C:\Users\agile\source\repos\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\agile\source\repos\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\agile\source\repos\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\agile\source\repos\LoginScreen\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+C:\Users\agile\source\repos\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+C:\Users\agile\source\repos\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\agile\source\repos\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\agile\source\repos\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\agile\source\repos\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\agile\source\repos\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\agile\source\repos\LoginScreen\obj\Debug\LoginScreen.Form2.resources
+C:\Users\agile\source\repos\LoginScreen\obj\Debug\LoginScreen.Form3.resources

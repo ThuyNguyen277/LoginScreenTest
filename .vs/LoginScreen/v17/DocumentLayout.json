@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agile\\source\\repos\\LoginScreen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8311BAA-36F6-4FA1-A1D3-578EC4605063}|LoginScreen.csproj|C:\\Users\\agile\\source\\repos\\LoginScreen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8311BAA-36F6-4FA1-A1D3-578EC4605063}|LoginScreen.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8311BAA-36F6-4FA1-A1D3-578EC4605063}|LoginScreen.csproj|c:\\users\\agile\\source\\repos\\loginscreen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8311BAA-36F6-4FA1-A1D3-578EC4605063}|LoginScreen.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8311BAA-36F6-4FA1-A1D3-578EC4605063}|LoginScreen.csproj|C:\\Users\\agile\\source\\repos\\LoginScreen\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8311BAA-36F6-4FA1-A1D3-578EC4605063}|LoginScreen.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agile\\source\\repos\\HomePage\\bin\\Debug\\HomePage.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8311BAA-36F6-4FA1-A1D3-578EC4605063}|LoginScreen.csproj|C:\\Users\\agile\\source\\repos\\LoginScreen\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8311BAA-36F6-4FA1-A1D3-578EC4605063}|LoginScreen.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8311BAA-36F6-4FA1-A1D3-578EC4605063}|LoginScreen.csproj|C:\\Users\\agile\\source\\repos\\LoginScreen\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8311BAA-36F6-4FA1-A1D3-578EC4605063}|LoginScreen.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8311BAA-36F6-4FA1-A1D3-578EC4605063}|LoginScreen.csproj|C:\\Users\\agile\\source\\repos\\LoginScreen\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8311BAA-36F6-4FA1-A1D3-578EC4605063}|LoginScreen.csproj|solutionrelative:form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8311BAA-36F6-4FA1-A1D3-578EC4605063}|LoginScreen.csproj|C:\\Users\\agile\\source\\repos\\LoginScreen\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8311BAA-36F6-4FA1-A1D3-578EC4605063}|LoginScreen.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 107,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\agile\\source\\repos\\LoginScreen\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\agile\\source\\repos\\LoginScreen\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAUwGsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:56:31.895Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\agile\\source\\repos\\LoginScreen\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\agile\\source\\repos\\LoginScreen\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAQwGIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:39:12.238Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\agile\\source\\repos\\LoginScreen\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\agile\\source\\repos\\LoginScreen\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:25:47.391Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.exe.config",
+              "DocumentMoniker": "C:\\Users\\agile\\source\\repos\\HomePage\\bin\\Debug\\HomePage.exe.config",
+              "RelativeDocumentMoniker": "..\\HomePage\\bin\\Debug\\HomePage.exe.config",
+              "ToolTip": "C:\\Users\\agile\\source\\repos\\HomePage\\bin\\Debug\\HomePage.exe.config",
+              "RelativeToolTip": "..\\HomePage\\bin\\Debug\\HomePage.exe.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-11T07:48:59.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\agile\\source\\repos\\LoginScreen\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\agile\\source\\repos\\LoginScreen\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:33:44.279Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\agile\\source\\repos\\LoginScreen\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\agile\\source\\repos\\LoginScreen\\Form3.Designer.cs",
+              "RelativeToolTip": "Form3.Designer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwFAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:57:02.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\agile\\source\\repos\\LoginScreen\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\agile\\source\\repos\\LoginScreen\\Form3.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "Form3.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:48:39.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\agile\\source\\repos\\LoginScreen\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\agile\\source\\repos\\LoginScreen\\Form2.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "Form2.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:52:31.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
